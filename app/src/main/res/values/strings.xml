@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">week2</string>
+    <string name="b_nombre">nombre</string>
+    <string name="b_email">email</string>
+    <string name="b_telefono">telefono</string>
+    <string name="b_date">date</string>
+    <string name="b_description">description</string>
+</resources>
